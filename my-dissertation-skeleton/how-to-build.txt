@@ -1,0 +1,2 @@
+bibtex Pearson_UCSB_thesis ; latex Pearson_UCSB_thesis.tex && open Pearson_UCSB_thesis.pdf 
+
